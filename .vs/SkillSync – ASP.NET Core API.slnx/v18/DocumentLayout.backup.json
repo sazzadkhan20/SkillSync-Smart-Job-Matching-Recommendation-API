@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\applayerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\AppLayerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AppLayerAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\AppLayerAPI\\Program.cs",
+              "RelativeToolTip": "AppLayerAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T19:02:15.633Z",
+              "EditorCaption": ""
             }
           ]
         }

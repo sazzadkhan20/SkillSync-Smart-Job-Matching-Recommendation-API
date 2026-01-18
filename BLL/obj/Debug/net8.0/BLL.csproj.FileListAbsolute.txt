@@ -1,0 +1,16 @@
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\obj\Debug\net8.0\ref\BLL.dll

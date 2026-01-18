@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="AppLayerAPI/AppLayerAPI.csproj" />
+  <Project Path="BLL/BLL.csproj" Id="7483aff8-97ba-4019-8c89-e4449bb79e2d" />
+  <Project Path="DAL/DAL.csproj" Id="6f54ef1e-c44a-4d8d-b607-f08156d40cef" />
 </Solution>
