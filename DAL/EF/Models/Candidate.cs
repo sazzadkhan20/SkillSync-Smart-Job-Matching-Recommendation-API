@@ -10,6 +10,11 @@ namespace DAL.EF.Models
 {
     public class Candidate
     {
+        public Candidate()
+        {
+            JobApplications = new List<JobApplication>();
+        }
+
         public int Id { get; set; }
         public string FullName { get; set; }
         public string Email { get; set; }
@@ -20,5 +25,7 @@ namespace DAL.EF.Models
         public int ExperienceLevel { get; set; } = 0;
 
         public DateTime CreatedAt { get; set; } = DateTime.Now;
+
+        public virtual List<JobApplication> JobApplications { get; set; }
     }
 }

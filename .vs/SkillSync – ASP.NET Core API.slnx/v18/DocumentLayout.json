@@ -3,8 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\dal\\ef\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\dal\\ef\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\bll\\services\\jobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\jobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\bll\\services\\jobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\jobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\bll\\dtos\\jobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\jobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\dal\\repositories\\jobpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\jobpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\dal\\repositories\\jobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\jobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\dal\\repositories\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\dal\\ef\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\applayerapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\bll\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\bll\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\bll\\dtos\\jobpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\jobpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\applayerapi\\controllers\\jobpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\controllers\\jobpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\applayerapi\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\applayerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E782AB86-AD65-43F7-8DBF-7197CBF253EA}|Common\\Common.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E782AB86-AD65-43F7-8DBF-7197CBF253EA}|Common\\Common.csproj|solutionrelative:common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\applayerapi\\applayerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\applayerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|c:\\users\\sazza\\onedrive - american international university-bangladesh\\desktop\\aiub\\advanced programming with .net\\skillsync \u2013 asp.net core api\\applayerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,15 +126,314 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:31:52.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\Repositories\\Repository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Repository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T21:39:26.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobApplicationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\BLL\\DTOs\\JobApplicationDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\JobApplicationDTO.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\BLL\\DTOs\\JobApplicationDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\JobApplicationDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:44:36.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\BLL\\Services\\JobApplicationService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\JobApplicationService.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\BLL\\Services\\JobApplicationService.cs",
+              "RelativeToolTip": "BLL\\Services\\JobApplicationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:51:37.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobPostService.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\BLL\\Services\\JobPostService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\JobPostService.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\BLL\\Services\\JobPostService.cs",
+              "RelativeToolTip": "BLL\\Services\\JobPostService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:51:16.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\BLL\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\BLL\\MapperConfig.cs",
+              "RelativeToolTip": "BLL\\MapperConfig.cs",
+              "ViewState": "AgIAAAUAAAAAMyiVr6j6vwsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:08:26.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\EF\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Candidate.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\EF\\Models\\Candidate.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Candidate.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwBwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:37:04.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "JobPost.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\EF\\Models\\JobPost.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\JobPost.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\EF\\Models\\JobPost.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\JobPost.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:40:00.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\Repositories\\JobPostRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\JobPostRepository.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\Repositories\\JobPostRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\JobPostRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:27:55.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T21:43:05.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\Repositories\\JobApplicationRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\JobApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\Repositories\\JobApplicationRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\JobApplicationRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T08:23:46.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CandidateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\Repositories\\CandidateRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\CandidateRepository.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\Repositories\\CandidateRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\CandidateRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:27:28.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\EF\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\EF\\Models\\JobApplication.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\JobApplication.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:36:07.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\AppLayerAPI\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "AppLayerAPI\\Controllers\\CandidateController.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\AppLayerAPI\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "AppLayerAPI\\Controllers\\CandidateController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:53:48.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\BLL\\Services\\CandidateService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CandidateService.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\BLL\\Services\\CandidateService.cs",
+              "RelativeToolTip": "BLL\\Services\\CandidateService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:50:55.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobPostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\BLL\\DTOs\\JobPostDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\JobPostDTO.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\BLL\\DTOs\\JobPostDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\JobPostDTO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:39:29.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CandidateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\BLL\\DTOs\\CandidateDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CandidateDTO.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\BLL\\DTOs\\CandidateDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CandidateDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:39:11.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JobPostController.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\AppLayerAPI\\Controllers\\JobPostController.cs",
+              "RelativeDocumentMoniker": "AppLayerAPI\\Controllers\\JobPostController.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\AppLayerAPI\\Controllers\\JobPostController.cs",
+              "RelativeToolTip": "AppLayerAPI\\Controllers\\JobPostController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:54:10.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JobApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\AppLayerAPI\\Controllers\\JobApplicationController.cs",
+              "RelativeDocumentMoniker": "AppLayerAPI\\Controllers\\JobApplicationController.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\AppLayerAPI\\Controllers\\JobApplicationController.cs",
+              "RelativeToolTip": "AppLayerAPI\\Controllers\\JobApplicationController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:54:34.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\AppLayerAPI\\Program.cs",
               "RelativeDocumentMoniker": "AppLayerAPI\\Program.cs",
               "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\AppLayerAPI\\Program.cs",
               "RelativeToolTip": "AppLayerAPI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T19:02:15.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-18T21:35:27.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\Common\\Class1.cs",
+              "RelativeDocumentMoniker": "Common\\Class1.cs",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\Common\\Class1.cs",
+              "RelativeToolTip": "Common\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T21:34:51.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppLayerAPI",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\AppLayerAPI\\AppLayerAPI.csproj",
+              "RelativeDocumentMoniker": "AppLayerAPI\\AppLayerAPI.csproj",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\AppLayerAPI\\AppLayerAPI.csproj",
+              "RelativeToolTip": "AppLayerAPI\\AppLayerAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-18T21:34:59.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\AppLayerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AppLayerAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync \u2013 ASP.NET Core API\\AppLayerAPI\\appsettings.json",
+              "RelativeToolTip": "AppLayerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-18T20:48:35.657Z",
               "EditorCaption": ""
             }
           ]

@@ -9,7 +9,7 @@
       "AppLayerAPI/1.0.0": {
         "dependencies": {
           "BLL": "1.0.0",
-          "DAL": "1.0.0",
+          "Common": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.11",
           "Microsoft.EntityFrameworkCore.Design": "9.0.11",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.11",
@@ -1032,6 +1032,7 @@
       "BLL/1.0.0": {
         "dependencies": {
           "AutoMapper": "14.0.0",
+          "Common": "1.0.0",
           "DAL": "1.0.0"
         },
         "runtime": {
@@ -1041,8 +1042,17 @@
           }
         }
       },
+      "Common/1.0.0": {
+        "runtime": {
+          "Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "DAL/1.0.0": {
         "dependencies": {
+          "Common": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.11",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.11"
         },
@@ -1517,6 +1527,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
