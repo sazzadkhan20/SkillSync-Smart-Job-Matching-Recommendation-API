@@ -1,8 +1,11 @@
+using BLL.DomainLogic;
+using BLL.DTOs;
+using BLL.Interfaces;
+using BLL.Services;
+using DAL;
 using DAL.EF;
 using DAL.Repositories;
-using BLL.Services;
 using Microsoft.EntityFrameworkCore;
-using DAL;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,10 +19,14 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<DataAccessFactory>();
 builder.Services.AddScoped<CandidateRepository>();
 builder.Services.AddScoped<JobPostRepository>();
+builder.Services.AddScoped<JobApplicationRepository>();
 //builder.Services.AddScoped<JobApplicationRepository>();
 builder.Services.AddScoped<CandidateService>();
 builder.Services.AddScoped<JobPostService>();
 builder.Services.AddScoped<JobApplicationService>();
+builder.Services.AddScoped<CandidateDTO>();
+builder.Services.AddScoped<JobPostDTO>();
+builder.Services.AddScoped<ISkillMatchCalculator, SkillMatchCalculator>();
 builder.Services.AddDbContext<SJMDbContext>(opt => {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("DbConn"));
 });

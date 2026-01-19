@@ -74,6 +74,80 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "AppLayerAPI.Controllers.JobApplicationController",
+    "Method": "Get",
+    "RelativePath": "api/JobApplication/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppLayerAPI.Controllers.JobApplicationController",
+    "Method": "GetAll",
+    "RelativePath": "api/JobApplication/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppLayerAPI.Controllers.JobApplicationController",
+    "Method": "Add",
+    "RelativePath": "api/JobApplication/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "application",
+        "Type": "BLL.DTOs.JobApplicationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppLayerAPI.Controllers.JobApplicationController",
+    "Method": "Delete",
+    "RelativePath": "api/JobApplication/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppLayerAPI.Controllers.JobApplicationController",
+    "Method": "Update",
+    "RelativePath": "api/JobApplication/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "application",
+        "Type": "BLL.DTOs.JobApplicationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "AppLayerAPI.Controllers.JobPostController",
     "Method": "Get",
     "RelativePath": "api/JobPost/{id}",

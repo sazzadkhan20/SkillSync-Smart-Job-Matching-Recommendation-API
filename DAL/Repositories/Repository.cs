@@ -32,7 +32,7 @@ namespace DAL.Repositories
             }
         }
 
-        public bool Delete(T entity)
+        public  bool Delete(T entity)
         {
             this._dbSet.Remove(entity);
             try
@@ -46,12 +46,12 @@ namespace DAL.Repositories
             }
         }
 
-        public T Get(int id)
+        public virtual T Get(int id)
         {
             return this._dbSet.Find(id);
         }
 
-        public List<T> GetAll()
+        public virtual List<T> GetAll()
         {
             return this._dbSet.ToList();
         }
