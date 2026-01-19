@@ -176,3 +176,5 @@ C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\A
 C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\AppLayerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\AppLayerAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\AppLayerAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\AppLayerAPI\bin\Debug\net8.0\Common.dll
+C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\AppLayerAPI\bin\Debug\net8.0\Common.pdb
