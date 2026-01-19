@@ -10,6 +10,13 @@ namespace BLL
             c.CreateMap<Candidate, CandidateDTO>().ReverseMap();
             c.CreateMap<JobPost, JobPostDTO>().ReverseMap();
             c.CreateMap<JobApplication, JobApplicationDTO>().ReverseMap();
+            c.CreateMap<JobApplication, JobApplicationDetailsDTO>().ReverseMap().
+                         ForMember(
+                         dto => dto.Candidate,
+                         src => src.MapFrom(c => c.Candidate)).
+                         ForMember(
+                         dto => dto.JobPost,
+                         src => src.MapFrom(j => j.JobPost));
             //c.CreateMap<Student, StudentDTO>().ReverseMap();
             //c.CreateMap<Student, StudentDTO>().ReverseMap();
             //c.CreateMap<Department, DepartmentStudentDTO>().ReverseMap();

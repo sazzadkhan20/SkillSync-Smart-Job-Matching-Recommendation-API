@@ -29,17 +29,17 @@ namespace AppLayerAPI.Controllers
         }
 
         [HttpPost("create")]
-        public IActionResult Add(CandidateDTO candidate)
+        public IActionResult Add([FromBody] CandidateDTO candidate)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             try
             {
                 var result = _service.Add(candidate);
 
-                return Ok(new
-                {
-                    success = true,
-                    candidate = result,
-               });
+                return Ok(result);
             }
             catch (Exception ex)
             {
@@ -53,8 +53,12 @@ namespace AppLayerAPI.Controllers
         }
 
         [HttpPut("update")]
-        public IActionResult Update(CandidateDTO candidate)
+        public IActionResult Update([FromBody] CandidateDTO candidate)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             return Ok(_service.Update(candidate));
         }
 

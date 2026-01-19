@@ -15,6 +15,5 @@ namespace DAL.Repositories
             _context = context;
         }
 
-
     }
 }

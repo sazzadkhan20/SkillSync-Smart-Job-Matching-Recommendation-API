@@ -1,5 +1,7 @@
 ﻿using BLL.DTOs;
+using BLL.Interfaces;
 using DAL;
+using DAL.EF.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,28 +13,41 @@ namespace BLL.Services
     public class JobApplicationService
     {
         private readonly DataAccessFactory _dataAccess;
-        public JobApplicationService(DataAccessFactory dataAccess)
+        private readonly ISkillMatchCalculator _skillMatch;
+        public JobApplicationService(DataAccessFactory dataAccess,ISkillMatchCalculator skillMatch)
         {
             _dataAccess = dataAccess;
+            _skillMatch = skillMatch;
         }
-
-        public JobApplicationDTO Get(int id)
+        public JobApplicationDetailsDTO Get(int id)
         {
             var data = _dataAccess.JobApplicationData().Get(id);
-            var result = MapperConfig.GetMapper().Map<JobApplicationDTO>(data);
+            var result = MapperConfig.GetMapper().Map<JobApplicationDetailsDTO>(data);
             return result;
         }
 
-        public List<JobApplicationDTO> GetAll()
+        public List<JobApplicationDetailsDTO> GetAll()
         {
             var data = _dataAccess.JobApplicationData().GetAll();
-            var result = MapperConfig.GetMapper().Map<List<JobApplicationDTO>>(data);
+            var result = MapperConfig.GetMapper().Map<List<JobApplicationDetailsDTO>>(data);
             return result;
         }
 
-        public bool Add(JobApplicationDTO JobApplication)
+        public bool Add(JobApplicationDTO application)
         {
-            var data = MapperConfig.GetMapper().Map<JobApplication>(JobApplication);
+            var candidateData = _dataAccess.CandidateData().Get(application.CandidateId);
+            var jobData = _dataAccess.JobPostData().Get(application.JobId);
+            if (candidateData == null)
+            {
+                throw new Exception("Invalid Candidate id");
+            }
+            if (jobData == null)
+            {
+                throw new Exception("Invalid Job id");
+            }
+            int skillMatchPErcentage = _skillMatch.Calculate(candidateData, jobData);
+            var data = MapperConfig.GetMapper().Map<JobApplication>(application);
+            data.SkillMatchPercent = skillMatchPErcentage;
             var result = _dataAccess.JobApplicationData().Add(data);
             return result;
         }
@@ -44,9 +59,9 @@ namespace BLL.Services
             return result;
         }
 
-        public bool Update(JobApplicationDTO JobApplication)
+        public bool Update(JobApplicationDTO application)
         {
-            var data = MapperConfig.GetMapper().Map<JobApplication>(JobApplication);
+            var data = MapperConfig.GetMapper().Map<JobApplication>(application);
             var result = _dataAccess.JobApplicationData().Update(data);
             return result;
         }
