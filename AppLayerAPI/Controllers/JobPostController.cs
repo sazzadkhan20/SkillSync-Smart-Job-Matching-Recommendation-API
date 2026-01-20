@@ -2,6 +2,7 @@
 using BLL.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace AppLayerAPI.Controllers
 {
@@ -16,41 +17,63 @@ namespace AppLayerAPI.Controllers
         }
 
         [HttpGet("all")] //  https://localhost:7044/api/jobpost/all
-        public IActionResult GetAll()
+        public async Task<IActionResult> GetAll()
         {
-            return Ok(_service.GetAll());
+            return Ok(await _service.GetAllAsync());
         }
 
         [HttpGet("{id}")] // https://localhost:7044/api/jobpost/1
-        public IActionResult Get(int id)
+        public async Task<IActionResult> Get(int id)
         {
-            return Ok(_service.Get(id));
+            return Ok(await _service.GetAsync(id));
         }
 
         [HttpPost("create")] //  https://localhost:7044/api/jobpost/create
-        public IActionResult Add([FromBody] JobPostDTO JobPost)
+        public async Task<IActionResult> Add([FromBody] JobPostDTO JobPost)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
-            return Ok(_service.Add(JobPost));
+            return Ok(await _service.AddAsync(JobPost));
         }
 
-        [HttpPut("update")] //  https://localhost:7044/api/jobpost/update
-        public IActionResult Update([FromBody] JobPostDTO JobPost)
+        [HttpPut("update/{id}")] //  https://localhost:7044/api/jobpost/update
+        public async Task<IActionResult> Update([FromBody] JobPostDTO JobPost,int id)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
-            return Ok(_service.Update(JobPost));
+            try
+            {
+                return Ok(await _service.UpdateAsync(JobPost, id));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new
+                {
+                    success = false,
+                    message = ex.Message
+                });
+            }
         }
 
         [HttpDelete("delete/{id}")] //  https://localhost:7044/api/jobpost/delete/1
-        public IActionResult Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
-            return Ok(_service.Delete(id));
+            try
+            {
+                return Ok(await _service.DeleteAsync(id));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new
+                {
+                    success = false,
+                    message = ex.Message
+                });
+            }
         }
     }
 }

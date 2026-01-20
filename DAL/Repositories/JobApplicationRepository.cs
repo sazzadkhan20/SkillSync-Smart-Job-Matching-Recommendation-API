@@ -19,20 +19,20 @@ namespace DAL.Repositories
             _dbSet = _context.Set<JobApplication>();
         }
 
-        public override JobApplication Get(int id)
+        public override async Task<JobApplication?> GetAsync(int id)
         {
-            var application = (from a in _context.JobApplications.Include(c => c.Candidate).
+            var application = await (from a in _context.JobApplications.Include(c => c.Candidate).
                                Include(post => post.JobPost)
                                where a.Id == id
-                               select a).SingleOrDefault();
+                               select a).SingleOrDefaultAsync();
             return application;
         }
 
-        public override List<JobApplication> GetAll()
+        public override async Task<List<JobApplication>> GetAllAsync()
         {
-            var applicationList = (from a in _context.JobApplications.Include(c => c.Candidate).
+            var applicationList = await (from a in _context.JobApplications.Include(c => c.Candidate).
                                Include(post => post.JobPost)
-                               select a).ToList();
+                               select a).ToListAsync();
             return applicationList;
         }
     }

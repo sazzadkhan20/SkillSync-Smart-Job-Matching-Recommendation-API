@@ -18,23 +18,23 @@ namespace BLL.Services
             _dataAccess = dataAccess;
         }
 
-        public CandidateDTO Get(int id)
+        public async Task<CandidateDTO> GetAsync(int id)
         {
-            var data = _dataAccess.CandidateData().Get(id);
+            var data = await _dataAccess.CandidateData().GetAsync(id);
             var result = MapperConfig.GetMapper().Map<CandidateDTO>(data);
             return result;
         }
 
-        public List<CandidateDTO> GetAll()
+        public async Task<List<CandidateDTO>> GetAllAsync()
         {
-            var data = _dataAccess.CandidateData().GetAll();
+            var data = await _dataAccess.CandidateData().GetAllAsync();
             var result = MapperConfig.GetMapper().Map<List<CandidateDTO>>(data);
             return result;
         }
 
-        public bool Add(CandidateDTO candidate)
+        public async Task<bool> AddAsync(CandidateDTO candidate)
         {
-            var allData = this.GetAll();
+            var allData = await this.GetAllAsync();
             if (allData != null)
             {
                 foreach (var item in allData)
@@ -44,21 +44,30 @@ namespace BLL.Services
                 }
             }
             var data = MapperConfig.GetMapper().Map<Candidate>(candidate);
-            var result = _dataAccess.CandidateData().Add(data);
+            var result = await _dataAccess.CandidateData().AddAsync(data);
             return result;
         }
 
-        public bool Delete(int id)
+        public async Task<bool> DeleteAsync(int id)
         {
-            var data = _dataAccess.CandidateData().Get(id);
-            var result = _dataAccess.CandidateData().Delete(data);
+            var data = await _dataAccess.CandidateData().GetAsync(id);
+            if(data == null)
+            {
+                throw new Exception("Candidate Not Found");
+            }
+            var result = await _dataAccess.CandidateData().DeleteAsync(data);
             return result;
         }
 
-        public bool Update(CandidateDTO candidate)
+        public async Task<bool> UpdateAsync(CandidateDTO candidate,int id)
         {
+            var existingCandidate = await _dataAccess.CandidateData().GetAsync(id);
+            if (existingCandidate == null)
+            {
+                throw new Exception("Candidate Not Found");
+            }
             var data = MapperConfig.GetMapper().Map<Candidate>(candidate);
-            var result = _dataAccess.CandidateData().Update(data);
+            var result = await _dataAccess.CandidateData().UpdateAsync(data);
             return result;
         }
     }

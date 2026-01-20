@@ -19,24 +19,24 @@ namespace BLL.Services
             _dataAccess = dataAccess;
             _skillMatch = skillMatch;
         }
-        public JobApplicationDetailsDTO Get(int id)
+        public async Task<JobApplicationDetailsDTO> GetAsync(int id)
         {
-            var data = _dataAccess.JobApplicationData().Get(id);
+            var data = await _dataAccess.JobApplicationData().GetAsync(id);
             var result = MapperConfig.GetMapper().Map<JobApplicationDetailsDTO>(data);
             return result;
         }
 
-        public List<JobApplicationDetailsDTO> GetAll()
+        public async Task<List<JobApplicationDetailsDTO>> GetAllAsync()
         {
-            var data = _dataAccess.JobApplicationData().GetAll();
+            var data = await _dataAccess.JobApplicationData().GetAllAsync();
             var result = MapperConfig.GetMapper().Map<List<JobApplicationDetailsDTO>>(data);
             return result;
         }
 
-        public bool Add(JobApplicationDTO application)
+        public async Task<bool> AddAsync(JobApplicationDTO application)
         {
-            var candidateData = _dataAccess.CandidateData().Get(application.CandidateId);
-            var jobData = _dataAccess.JobPostData().Get(application.JobId);
+            var candidateData = await _dataAccess.CandidateData().GetAsync(application.CandidateId);
+            var jobData = await _dataAccess.JobPostData().GetAsync(application.JobId);
             if (candidateData == null)
             {
                 throw new Exception("Invalid Candidate id");
@@ -48,21 +48,30 @@ namespace BLL.Services
             int skillMatchPErcentage = _skillMatch.Calculate(candidateData, jobData);
             var data = MapperConfig.GetMapper().Map<JobApplication>(application);
             data.SkillMatchPercent = skillMatchPErcentage;
-            var result = _dataAccess.JobApplicationData().Add(data);
+            var result = await _dataAccess.JobApplicationData().AddAsync(data);
             return result;
         }
 
-        public bool Delete(int id)
+        public async Task<bool> DeleteAsync(int id)
         {
-            var data = _dataAccess.JobApplicationData().Get(id);
-            var result = _dataAccess.JobApplicationData().Delete(data);
+            var data = await _dataAccess.JobApplicationData().GetAsync(id);
+            if (data == null)
+            {
+                throw new Exception("Job Application Not Found");
+            }
+            var result = await _dataAccess.JobApplicationData().DeleteAsync(data);
             return result;
         }
 
-        public bool Update(JobApplicationDTO application)
+        public async Task<bool> UpdateAsync(JobApplicationDTO application, int id)
         {
+            var existingData = await _dataAccess.JobApplicationData().GetAsync(id);
+            if (existingData == null)
+            {
+                throw new Exception("Job Application Not Found");
+            }
             var data = MapperConfig.GetMapper().Map<JobApplication>(application);
-            var result = _dataAccess.JobApplicationData().Update(data);
+            var result = await _dataAccess.JobApplicationData().UpdateAsync(data);
             return result;
         }
     }
