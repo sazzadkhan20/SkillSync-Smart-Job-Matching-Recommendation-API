@@ -1,8 +1,9 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using BLL.DTOs;
 using BLL.Services;
-using BLL.DTOs;
+using DAL.EF.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc;
 
 namespace AppLayerAPI.Controllers
 {
@@ -17,19 +18,21 @@ namespace AppLayerAPI.Controllers
         }
 
         [HttpGet("all")]
-        public IActionResult GetAll()
+        public async Task<IActionResult> GetAll()
         {
-            return Ok(_service.GetAll());
+            var data = await _service.GetAllAsync();
+            return Ok(data);
         }
 
+
         [HttpGet("{id}")]
-        public IActionResult Get(int id)
+        public async Task<IActionResult> Get(int id)
         {
-            return Ok(_service.Get(id));
+            return Ok(await _service.GetAsync(id));
         }
 
         [HttpPost("create")]
-        public IActionResult Add([FromBody] CandidateDTO candidate)
+        public async Task<IActionResult> Add([FromBody] CandidateDTO candidate)
         {
             if (!ModelState.IsValid)
             {
@@ -37,7 +40,7 @@ namespace AppLayerAPI.Controllers
             }
             try
             {
-                var result = _service.Add(candidate);
+                var result = await _service.AddAsync(candidate);
 
                 return Ok(result);
             }
@@ -52,20 +55,42 @@ namespace AppLayerAPI.Controllers
             
         }
 
-        [HttpPut("update")]
-        public IActionResult Update([FromBody] CandidateDTO candidate)
+        [HttpPut("update/{id}")]
+        public async Task<IActionResult> Update([FromBody] CandidateDTO candidate,int id)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
-            return Ok(_service.Update(candidate));
+            try
+            {
+                return Ok(await _service.UpdateAsync(candidate, id));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new
+                {
+                    success = false,
+                    message = ex.Message
+                });
+            }
         }
 
         [HttpDelete("delete/{id}")]
-        public IActionResult Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
-            return Ok(_service.Delete(id));
+            try
+            {
+                return Ok(await _service.DeleteAsync(id));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new
+                {
+                    success = false,
+                    message = ex.Message
+                });
+            }
         }
 
     }

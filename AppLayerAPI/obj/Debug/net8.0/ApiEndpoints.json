@@ -60,7 +60,7 @@
   {
     "ContainingType": "AppLayerAPI.Controllers.CandidateController",
     "Method": "Update",
-    "RelativePath": "api/Candidate/update",
+    "RelativePath": "api/Candidate/update/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -68,6 +68,11 @@
       {
         "Name": "candidate",
         "Type": "BLL.DTOs.CandidateDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
@@ -134,7 +139,7 @@
   {
     "ContainingType": "AppLayerAPI.Controllers.JobApplicationController",
     "Method": "Update",
-    "RelativePath": "api/JobApplication/update",
+    "RelativePath": "api/JobApplication/update/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -142,6 +147,11 @@
       {
         "Name": "application",
         "Type": "BLL.DTOs.JobApplicationDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
@@ -208,7 +218,7 @@
   {
     "ContainingType": "AppLayerAPI.Controllers.JobPostController",
     "Method": "Update",
-    "RelativePath": "api/JobPost/update",
+    "RelativePath": "api/JobPost/update/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -216,6 +226,11 @@
       {
         "Name": "JobPost",
         "Type": "BLL.DTOs.JobPostDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

@@ -18,12 +18,12 @@ namespace DAL.Repositories
             _context = context;
             _dbSet = _context.Set<T>();
         }
-        public bool Add(T entity)
+        public async Task<bool> AddAsync(T entity)
         {
-            this._dbSet.Add(entity);
             try
             {
-                _context.SaveChanges();
+                await this._dbSet.AddAsync(entity);
+                await _context.SaveChangesAsync();
                 return true;
             }
             catch (Exception ex)
@@ -32,12 +32,12 @@ namespace DAL.Repositories
             }
         }
 
-        public  bool Delete(T entity)
+        public  async Task<bool> DeleteAsync(T entity)
         {
-            this._dbSet.Remove(entity);
             try
             {
-                _context.SaveChanges();
+                this._dbSet.Remove(entity);
+                await _context.SaveChangesAsync();
                 return true;
             }
             catch (Exception ex)
@@ -46,22 +46,22 @@ namespace DAL.Repositories
             }
         }
 
-        public virtual T Get(int id)
+        public virtual async Task<T?> GetAsync(int id)
         {
-            return this._dbSet.Find(id);
+            return await this._dbSet.FindAsync(id);
         }
 
-        public virtual List<T> GetAll()
+        public virtual async Task<List<T>> GetAllAsync()
         {
-            return this._dbSet.ToList();
+            return await this._dbSet.ToListAsync();
         }
 
-        public bool Update(T entity)
+        public async Task<bool> UpdateAsync(T entity)
         {
-            this._dbSet.Update(entity);
             try
             {
-                _context.SaveChanges();
+                this._dbSet.Update(entity);
+                await _context.SaveChangesAsync();
                 return true;
             }
             catch (Exception ex)

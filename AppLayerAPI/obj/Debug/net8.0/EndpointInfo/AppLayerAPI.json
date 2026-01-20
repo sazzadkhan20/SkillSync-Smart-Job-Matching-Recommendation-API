@@ -71,10 +71,21 @@
         }
       }
     },
-    "/api/Candidate/update": {
+    "/api/Candidate/update/{id}": {
       "put": {
         "tags": [
           "Candidate"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
         ],
         "requestBody": {
           "content": {
@@ -191,10 +202,21 @@
         }
       }
     },
-    "/api/JobApplication/update": {
+    "/api/JobApplication/update/{id}": {
       "put": {
         "tags": [
           "JobApplication"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
         ],
         "requestBody": {
           "content": {
@@ -311,10 +333,21 @@
         }
       }
     },
-    "/api/JobPost/update": {
+    "/api/JobPost/update/{id}": {
       "put": {
         "tags": [
           "JobPost"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
         ],
         "requestBody": {
           "content": {

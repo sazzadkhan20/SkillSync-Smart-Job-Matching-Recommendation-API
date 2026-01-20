@@ -9,10 +9,10 @@ namespace DAL.Interfaces
 {
     public interface IRepository<T> where T : class
     {
-        public T Get(int id);
-        public List<T> GetAll();
-        public bool Add(T entity);
-        public bool Delete(T entity);
-        public bool Update(T entity);
+        Task<T?> GetAsync(int id);
+        Task<List<T>> GetAllAsync();
+        Task<bool> AddAsync(T entity);
+        Task<bool> DeleteAsync(T entity);
+        Task<bool> UpdateAsync(T entity);
     }
 }

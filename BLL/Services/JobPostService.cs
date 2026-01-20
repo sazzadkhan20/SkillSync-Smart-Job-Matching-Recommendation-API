@@ -17,38 +17,47 @@ namespace BLL.Services
             _dataAccess = dataAccess;
         }
 
-        public JobPostDTO Get(int id)
+        public async Task<JobPostDTO> GetAsync(int id)
         {
-            var data = _dataAccess.JobPostData().Get(id);
+            var data = await _dataAccess.JobPostData().GetAsync(id);
             var result = MapperConfig.GetMapper().Map<JobPostDTO>(data);
             return result;
         }
 
-        public List<JobPostDTO> GetAll()
+        public async Task<List<JobPostDTO>> GetAllAsync()
         {
-            var data = _dataAccess.JobPostData().GetAll();
+            var data = await _dataAccess.JobPostData().GetAllAsync();
             var result = MapperConfig.GetMapper().Map<List<JobPostDTO>>(data);
             return result;
         }
 
-        public bool Add(JobPostDTO JobPost)
+        public async Task<bool> AddAsync(JobPostDTO JobPost)
         {
             var data = MapperConfig.GetMapper().Map<JobPost>(JobPost);
-            var result = _dataAccess.JobPostData().Add(data);
+            var result = await _dataAccess.JobPostData().AddAsync(data);
             return result;
         }
 
-        public bool Delete(int id)
+        public async Task<bool> DeleteAsync(int id)
         {
-            var data = _dataAccess.JobPostData().Get(id);
-            var result = _dataAccess.JobPostData().Delete(data);
+            var data = await _dataAccess.JobPostData().GetAsync(id);
+            if (data == null)
+            {
+                throw new Exception("Job Post Not Found");
+            }
+            var result = await _dataAccess.JobPostData().DeleteAsync(data);
             return result;
         }
 
-        public bool Update(JobPostDTO JobPost)
+        public async Task<bool> UpdateAsync(JobPostDTO JobPost,int id)
         {
+            var existingData = await _dataAccess.JobPostData().GetAsync(id);
+            if (existingData == null)
+            {
+                throw new Exception("Job Post Not Found");
+            }
             var data = MapperConfig.GetMapper().Map<JobPost>(JobPost);
-            var result = _dataAccess.JobPostData().Update(data);
+            var result = await _dataAccess.JobPostData().UpdateAsync(data);
             return result;
         }
     }
