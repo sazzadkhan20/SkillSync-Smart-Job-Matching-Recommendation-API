@@ -16,3 +16,21 @@ C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\A
 C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\obj\Debug\net8.0\ref\BLL.dll
 C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\bin\Debug\net8.0\Common.dll
 C:\Users\sazza\OneDrive - American International University-Bangladesh\Desktop\AIUB\ADVANCED PROGRAMMING WITH .NET\SkillSync – ASP.NET Core API\BLL\bin\Debug\net8.0\Common.pdb
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\bin\Debug\net8.0\BLL.dll
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\bin\Debug\net8.0\BLL.pdb
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\bin\Debug\net8.0\Common.dll
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\bin\Debug\net8.0\DAL.dll
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\bin\Debug\net8.0\Common.pdb
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\bin\Debug\net8.0\DAL.pdb
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\obj\Debug\net8.0\BLL.dll
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\obj\Debug\net8.0\BLL.pdb
+D:\ASP.NET Core Web API Final Project\SkillSync-Smart-Job-Matching-Recommendation-API\BLL\obj\Debug\net8.0\ref\BLL.dll

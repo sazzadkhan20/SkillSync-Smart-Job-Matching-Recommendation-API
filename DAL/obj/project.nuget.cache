@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xPI6M5jxQV8=",
+  "dgSpecHash": "SHzjnYbihFM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync – ASP.NET Core API\\DAL\\DAL.csproj",
+  "projectFilePath": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sazza\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\sazza\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

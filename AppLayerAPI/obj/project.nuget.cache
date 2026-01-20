@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mg/oFMRlZC0=",
+  "dgSpecHash": "BEDh7+VixOY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sazza\\OneDrive - American International University-Bangladesh\\Desktop\\AIUB\\ADVANCED PROGRAMMING WITH .NET\\SkillSync – ASP.NET Core API\\AppLayerAPI\\AppLayerAPI.csproj",
+  "projectFilePath": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\AppLayerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sazza\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\sazza\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
