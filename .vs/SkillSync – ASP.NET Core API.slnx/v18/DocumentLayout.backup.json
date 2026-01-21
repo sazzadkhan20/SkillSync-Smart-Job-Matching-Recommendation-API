@@ -3,120 +3,156 @@
   "WorkspaceRootPath": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\repositories\\jobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\jobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\applayerapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\domainlogic\\converters\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\domainlogic\\converters\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\services\\jobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\jobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\domainlogic\\calculators\\skillmatchcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\domainlogic\\calculators\\skillmatchcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\dtos\\jobapplicationdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\jobapplicationdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\helpers\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\helpers\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\applayerapi\\controllers\\jobpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\controllers\\jobpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\services\\jobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\jobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\domainlogic\\specifications\\jobpostspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\domainlogic\\specifications\\jobpostspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\domainlogic\\specifications\\candidatespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\domainlogic\\specifications\\candidatespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\applayerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\applayerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\domainlogic\\calculators\\iskillmatchcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\domainlogic\\calculators\\iskillmatchcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\interfaces\\ijobapplicationfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ijobapplicationfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\dtos\\jobpostsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\jobpostsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\repositories\\jobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\jobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\ef\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\domainlogic\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\domainlogic\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\dtos\\jobpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\jobpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\dtos\\jobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\jobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\services\\jobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\jobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\applayerapi\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\ef\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\dtos\\candidatenotifyrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\candidatenotifyrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\dtos\\jobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\jobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\dtos\\jobpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\jobpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\repositories\\jobpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\jobpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\applayerapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E782AB86-AD65-43F7-8DBF-7197CBF253EA}|Common\\Common.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\common\\candidatedecisiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E782AB86-AD65-43F7-8DBF-7197CBF253EA}|Common\\Common.csproj|solutionrelative:common\\candidatedecisiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\repositories\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\ef\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\applayerapi\\controllers\\jobpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\controllers\\jobpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\services\\jobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\jobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\helpers\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\helpers\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\ef\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\ef\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\domainlogic\\converters\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\domainlogic\\converters\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\dtos\\jobspecificapplicationdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\jobspecificapplicationdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\dtos\\jobapplicationdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\jobapplicationdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\dtos\\jobpostwithapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\jobpostwithapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\dtos\\jobpostsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\jobpostsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\interfaces\\ijobpostfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ijobpostfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\repositories\\jobpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\jobpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\domainlogic\\calculators\\skillmatchcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\domainlogic\\calculators\\skillmatchcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\domainlogic\\specifications\\jobpostspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\domainlogic\\specifications\\jobpostspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\domainlogic\\specifications\\candidatespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\domainlogic\\specifications\\candidatespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\domainlogic\\calculators\\iskillmatchcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\domainlogic\\calculators\\iskillmatchcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\domainlogic\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\domainlogic\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E782AB86-AD65-43F7-8DBF-7197CBF253EA}|Common\\Common.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,10 +165,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\applayerapi\\applayerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\applayerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\applayerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,7 +174,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -162,33 +194,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MapperConfig.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Helpers\\MapperConfig.cs",
-              "RelativeDocumentMoniker": "BLL\\Helpers\\MapperConfig.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Helpers\\MapperConfig.cs",
-              "RelativeToolTip": "BLL\\Helpers\\MapperConfig.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAyAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "JobPostDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobPostDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\JobPostDTO.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobPostDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\JobPostDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:08:26.806Z",
+              "WhenOpened": "2026-01-18T20:39:29.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobApplicationDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobApplicationDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\JobApplicationDTO.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobApplicationDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\JobApplicationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:44:36.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobApplicationService.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\JobApplicationService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\JobApplicationService.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\JobApplicationService.cs",
+              "RelativeToolTip": "BLL\\Services\\JobApplicationService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAtwFoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:51:37.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "JobPostService.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\JobPostService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\JobPostService.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\JobPostService.cs",
-              "RelativeToolTip": "BLL\\Services\\JobPostService.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFUAAAAaAAAAAAAAAA==",
+              "Title": "IJobApplicationFeature.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Interfaces\\IJobApplicationFeature.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IJobApplicationFeature.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Interfaces\\IJobApplicationFeature.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IJobApplicationFeature.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawBIAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:51:16.833Z",
+              "WhenOpened": "2026-01-21T04:37:34.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobApplicationRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Repositories\\JobApplicationRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\JobApplicationRepository.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Repositories\\JobApplicationRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\JobApplicationRepository.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T08:23:46.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AppLayerAPI\\Program.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Program.cs",
+              "RelativeToolTip": "AppLayerAPI\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T19:02:15.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AppLayerAPI\\appsettings.json",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\appsettings.json",
+              "RelativeToolTip": "AppLayerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-18T20:48:35.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CandidateNotifyRequestDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\CandidateNotifyRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CandidateNotifyRequestDTO.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\CandidateNotifyRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CandidateNotifyRequestDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:27:08.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobApplicationController.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Controllers\\JobApplicationController.cs",
+              "RelativeDocumentMoniker": "AppLayerAPI\\Controllers\\JobApplicationController.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Controllers\\JobApplicationController.cs",
+              "RelativeToolTip": "AppLayerAPI\\Controllers\\JobApplicationController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAswGgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:54:34.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CandidateDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\CandidateDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CandidateDTO.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\CandidateDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CandidateDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:39:11.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CandidateController.cs",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Controllers\\CandidateController.cs",
               "RelativeDocumentMoniker": "AppLayerAPI\\Controllers\\CandidateController.cs",
@@ -201,150 +337,202 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
+              "Title": "CandidateDecisionType.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\Common\\CandidateDecisionType.cs",
+              "RelativeDocumentMoniker": "Common\\CandidateDecisionType.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\Common\\CandidateDecisionType.cs",
+              "RelativeToolTip": "Common\\CandidateDecisionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:31:15.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\EmailService.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\EmailService.cs",
+              "RelativeToolTip": "BLL\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:16:36.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\IEmailService.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\IEmailService.cs",
+              "RelativeToolTip": "BLL\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:16:13.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CandidateRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Repositories\\CandidateRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\CandidateRepository.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Repositories\\CandidateRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\CandidateRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:27:28.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\EF\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\JobApplication.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\EF\\Models\\JobApplication.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\JobApplication.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:36:07.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "JobPostController.cs",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Controllers\\JobPostController.cs",
               "RelativeDocumentMoniker": "AppLayerAPI\\Controllers\\JobPostController.cs",
               "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Controllers\\JobPostController.cs",
               "RelativeToolTip": "AppLayerAPI\\Controllers\\JobPostController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAkwFoAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwFUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T22:54:10.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Helpers\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "BLL\\Helpers\\MapperConfig.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Helpers\\MapperConfig.cs",
+              "RelativeToolTip": "BLL\\Helpers\\MapperConfig.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:08:26.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JobPostService.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\JobPostService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\JobPostService.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\JobPostService.cs",
+              "RelativeToolTip": "BLL\\Services\\JobPostService.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAkwGQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:51:16.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\EF\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Candidate.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\EF\\Models\\Candidate.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Candidate.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:37:04.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JobPost.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\EF\\Models\\JobPost.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\JobPost.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\EF\\Models\\JobPost.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\JobPost.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:40:00.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:31:52.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Converter.cs",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Converters\\Converter.cs",
               "RelativeDocumentMoniker": "BLL\\DomainLogic\\Converters\\Converter.cs",
               "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Converters\\Converter.cs",
               "RelativeToolTip": "BLL\\DomainLogic\\Converters\\Converter.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAYwCMAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T23:22:22.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 23,
+              "Title": "JobSpecificApplicationDetailsDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobSpecificApplicationDetailsDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\JobSpecificApplicationDetailsDTO.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobSpecificApplicationDetailsDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\JobSpecificApplicationDetailsDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T02:35:55.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "JobApplicationDetailsDTO.cs",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobApplicationDetailsDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\JobApplicationDetailsDTO.cs",
               "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobApplicationDetailsDTO.cs",
               "RelativeToolTip": "BLL\\DTOs\\JobApplicationDetailsDTO.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T11:25:02.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SkillMatchCalculator.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Calculators\\SkillMatchCalculator.cs",
-              "RelativeDocumentMoniker": "BLL\\DomainLogic\\Calculators\\SkillMatchCalculator.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Calculators\\SkillMatchCalculator.cs",
-              "RelativeToolTip": "BLL\\DomainLogic\\Calculators\\SkillMatchCalculator.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAABWAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "JobPostWithApplicationDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobPostWithApplicationDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\JobPostWithApplicationDTO.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobPostWithApplicationDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\JobPostWithApplicationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T09:57:16.946Z",
+              "WhenOpened": "2026-01-21T03:02:54.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CandidateService.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\CandidateService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\CandidateService.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\CandidateService.cs",
-              "RelativeToolTip": "BLL\\Services\\CandidateService.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAmwFMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:50:55.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CandidateDTO.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\CandidateDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\CandidateDTO.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\CandidateDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\CandidateDTO.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:39:11.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "JobApplicationService.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\JobApplicationService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\JobApplicationService.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\JobApplicationService.cs",
-              "RelativeToolTip": "BLL\\Services\\JobApplicationService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBAAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:51:37.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "JobPostSpecification.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Specifications\\JobPostSpecification.cs",
-              "RelativeDocumentMoniker": "BLL\\DomainLogic\\Specifications\\JobPostSpecification.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Specifications\\JobPostSpecification.cs",
-              "RelativeToolTip": "BLL\\DomainLogic\\Specifications\\JobPostSpecification.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T21:48:09.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CandidateSpecification.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Specifications\\CandidateSpecification.cs",
-              "RelativeDocumentMoniker": "BLL\\DomainLogic\\Specifications\\CandidateSpecification.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Specifications\\CandidateSpecification.cs",
-              "RelativeToolTip": "BLL\\DomainLogic\\Specifications\\CandidateSpecification.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T21:48:56.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ISkillMatchCalculator.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Calculators\\ISkillMatchCalculator.cs",
-              "RelativeDocumentMoniker": "BLL\\DomainLogic\\Calculators\\ISkillMatchCalculator.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Calculators\\ISkillMatchCalculator.cs",
-              "RelativeToolTip": "BLL\\DomainLogic\\Calculators\\ISkillMatchCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T09:58:18.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Program.cs",
-              "RelativeDocumentMoniker": "AppLayerAPI\\Program.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Program.cs",
-              "RelativeToolTip": "AppLayerAPI\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAUwB4AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T19:02:15.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "JobPostSearchDTO.cs",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobPostSearchDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\JobPostSearchDTO.cs",
@@ -357,123 +545,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "JobApplicationRepository.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Repositories\\JobApplicationRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\JobApplicationRepository.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Repositories\\JobApplicationRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\JobApplicationRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 27,
+              "Title": "IJobPostFeature.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Interfaces\\IJobPostFeature.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IJobPostFeature.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Interfaces\\IJobPostFeature.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IJobPostFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T08:23:46.24Z",
+              "WhenOpened": "2026-01-21T03:08:18.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "JobPost.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\EF\\Models\\JobPost.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Models\\JobPost.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\EF\\Models\\JobPost.cs",
-              "RelativeToolTip": "DAL\\EF\\Models\\JobPost.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBgAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "JobPostRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Repositories\\JobPostRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\JobPostRepository.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Repositories\\JobPostRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\JobPostRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:40:00.484Z",
+              "WhenOpened": "2026-01-18T22:27:55.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ISpecification.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Specifications\\ISpecification.cs",
-              "RelativeDocumentMoniker": "BLL\\DomainLogic\\Specifications\\ISpecification.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Specifications\\ISpecification.cs",
-              "RelativeToolTip": "BLL\\DomainLogic\\Specifications\\ISpecification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 30,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T21:47:54.239Z",
+              "WhenOpened": "2026-01-18T21:43:05.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "JobPostDTO.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobPostDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\JobPostDTO.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobPostDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\JobPostDTO.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:39:29.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "JobApplicationDTO.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobApplicationDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\JobApplicationDTO.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobApplicationDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\JobApplicationDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T06:44:36.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "JobApplicationController.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Controllers\\JobApplicationController.cs",
-              "RelativeDocumentMoniker": "AppLayerAPI\\Controllers\\JobApplicationController.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Controllers\\JobApplicationController.cs",
-              "RelativeToolTip": "AppLayerAPI\\Controllers\\JobApplicationController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwEgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:54:34.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "JobApplication.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\EF\\Models\\JobApplication.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Models\\JobApplication.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\EF\\Models\\JobApplication.cs",
-              "RelativeToolTip": "DAL\\EF\\Models\\JobApplication.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T06:36:07.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BLL",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\BLL.csproj",
-              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\BLL.csproj",
-              "RelativeToolTip": "BLL\\BLL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-20T20:51:39.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DataAccessFactory.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\DataAccessFactory.cs",
-              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\DataAccessFactory.cs",
-              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:31:52.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Repository.cs",
@@ -481,59 +592,97 @@
               "RelativeToolTip": "DAL\\Repositories\\Repository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T21:39:26.385Z"
+              "WhenOpened": "2026-01-18T21:39:26.385Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "JobPostRepository.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Repositories\\JobPostRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\JobPostRepository.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Repositories\\JobPostRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\JobPostRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 31,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\CandidateService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CandidateService.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\CandidateService.cs",
+              "RelativeToolTip": "BLL\\Services\\CandidateService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:27:55.375Z"
+              "WhenOpened": "2026-01-18T22:50:55.404Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CandidateRepository.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Repositories\\CandidateRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\CandidateRepository.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Repositories\\CandidateRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\CandidateRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 32,
+              "Title": "SkillMatchCalculator.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Calculators\\SkillMatchCalculator.cs",
+              "RelativeDocumentMoniker": "BLL\\DomainLogic\\Calculators\\SkillMatchCalculator.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Calculators\\SkillMatchCalculator.cs",
+              "RelativeToolTip": "BLL\\DomainLogic\\Calculators\\SkillMatchCalculator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:27:28.368Z"
+              "WhenOpened": "2026-01-19T09:57:16.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 33,
+              "Title": "JobPostSpecification.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Specifications\\JobPostSpecification.cs",
+              "RelativeDocumentMoniker": "BLL\\DomainLogic\\Specifications\\JobPostSpecification.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Specifications\\JobPostSpecification.cs",
+              "RelativeToolTip": "BLL\\DomainLogic\\Specifications\\JobPostSpecification.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T21:43:05.423Z"
+              "WhenOpened": "2026-01-20T21:48:09.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Candidate.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\EF\\Models\\Candidate.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Candidate.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\EF\\Models\\Candidate.cs",
-              "RelativeToolTip": "DAL\\EF\\Models\\Candidate.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBYAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 34,
+              "Title": "CandidateSpecification.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Specifications\\CandidateSpecification.cs",
+              "RelativeDocumentMoniker": "BLL\\DomainLogic\\Specifications\\CandidateSpecification.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Specifications\\CandidateSpecification.cs",
+              "RelativeToolTip": "BLL\\DomainLogic\\Specifications\\CandidateSpecification.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:37:04.34Z"
+              "WhenOpened": "2026-01-20T21:48:56.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
+              "Title": "ISkillMatchCalculator.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Calculators\\ISkillMatchCalculator.cs",
+              "RelativeDocumentMoniker": "BLL\\DomainLogic\\Calculators\\ISkillMatchCalculator.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Calculators\\ISkillMatchCalculator.cs",
+              "RelativeToolTip": "BLL\\DomainLogic\\Calculators\\ISkillMatchCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:58:18.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Specifications\\ISpecification.cs",
+              "RelativeDocumentMoniker": "BLL\\DomainLogic\\Specifications\\ISpecification.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DomainLogic\\Specifications\\ISpecification.cs",
+              "RelativeToolTip": "BLL\\DomainLogic\\Specifications\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T21:47:54.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-20T20:51:39.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "DAL.csproj",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
@@ -541,12 +690,11 @@
               "RelativeToolTip": "DAL\\DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-18T21:35:27.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T21:35:27.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 38,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\Common\\Class1.cs",
               "RelativeDocumentMoniker": "Common\\Class1.cs",
@@ -558,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 40,
               "Title": "AppLayerAPI.csproj",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\AppLayerAPI.csproj",
               "RelativeDocumentMoniker": "AppLayerAPI\\AppLayerAPI.csproj",
@@ -566,20 +714,7 @@
               "RelativeToolTip": "AppLayerAPI\\AppLayerAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-18T21:34:59.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "AppLayerAPI\\appsettings.json",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\appsettings.json",
-              "RelativeToolTip": "AppLayerAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-18T20:48:35.657Z"
+              "WhenOpened": "2026-01-18T21:34:59.299Z"
             }
           ]
         }

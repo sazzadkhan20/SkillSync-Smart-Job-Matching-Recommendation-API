@@ -22,7 +22,17 @@ namespace DAL
             return new JobPostRepository(_context);
         }
 
+        //public IJobPostFeature<JobPost> JobPostFeature()
+        //{
+        //    return new JobPostRepository(_context);
+        //}
+
         public IRepository<JobApplication> JobApplicationData()
+        {
+            return new JobApplicationRepository(_context);
+        }
+
+        public IJobApplicationFeature<JobApplication> JobApplicationFeature()
         {
             return new JobApplicationRepository(_context);
         }

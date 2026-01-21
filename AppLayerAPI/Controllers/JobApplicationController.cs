@@ -1,6 +1,7 @@
 ﻿using BLL.DTOs;
 using BLL.Services;
 using BLL.Services;
+using Common;
 using DAL.EF.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -73,7 +74,7 @@ namespace AppLayerAPI.Controllers
                 });
             }
         }
-
+        
         [HttpDelete("delete/{id}")]
         public async Task<IActionResult> Delete(int id)
         {
@@ -90,5 +91,33 @@ namespace AppLayerAPI.Controllers
                 });
             }
         }
+
+        // Sent Email to candidates who meet the skill match criteria
+
+        [HttpPost("{id}/notify")]
+        public async Task<IActionResult> NotifyCandidates(int id,[FromBody] CandidateNotifyRequestDTO notify)
+        {
+
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+            try
+            {
+                var count = await _service.NotifyCandidatesAsync(id,notify);
+                return Ok(new
+                {
+                    success = true,
+                    totalCandidateMailsSent = count
+                });
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new
+                {
+                    success = false,
+                    message = ex.Message
+                });
+            }
+        }
+
     }
 }

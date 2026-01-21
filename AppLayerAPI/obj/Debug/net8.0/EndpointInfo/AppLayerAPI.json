@@ -307,6 +307,48 @@
         }
       }
     },
+    "/api/JobApplication/{id}/notify": {
+      "post": {
+        "tags": [
+          "JobApplication"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CandidateNotifyRequestDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CandidateNotifyRequestDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CandidateNotifyRequestDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/JobPost/all": {
       "get": {
         "tags": [
@@ -438,6 +480,60 @@
         }
       }
     },
+    "/api/JobPost/search/{id}": {
+      "get": {
+        "tags": [
+          "JobPost"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/JobPost/employer/{id}": {
+      "get": {
+        "tags": [
+          "JobPost"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "status",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "all"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/JobPost/search": {
       "get": {
         "tags": [
@@ -538,6 +634,26 @@
           "experienceLevel": {
             "type": "integer",
             "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CandidateNotifyRequestDTO": {
+        "required": [
+          "decisionType",
+          "minimumSkillMatch"
+        ],
+        "type": "object",
+        "properties": {
+          "minimumSkillMatch": {
+            "maximum": 100,
+            "minimum": 40,
+            "type": "integer",
+            "format": "int32"
+          },
+          "decisionType": {
+            "minLength": 1,
+            "type": "string"
           }
         },
         "additionalProperties": false
