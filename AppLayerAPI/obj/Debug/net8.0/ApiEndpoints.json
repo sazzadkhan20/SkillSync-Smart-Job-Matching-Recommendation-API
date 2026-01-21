@@ -122,6 +122,27 @@
   },
   {
     "ContainingType": "AppLayerAPI.Controllers.JobApplicationController",
+    "Method": "NotifyCandidates",
+    "RelativePath": "api/JobApplication/{id}/notify",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "notify",
+        "Type": "BLL.DTOs.CandidateNotifyRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppLayerAPI.Controllers.JobApplicationController",
     "Method": "GetAll",
     "RelativePath": "api/JobApplication/all",
     "HttpMethod": "GET",
@@ -243,6 +264,27 @@
   },
   {
     "ContainingType": "AppLayerAPI.Controllers.JobPostController",
+    "Method": "SearchByStatusAsync",
+    "RelativePath": "api/JobPost/employer/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppLayerAPI.Controllers.JobPostController",
     "Method": "Search",
     "RelativePath": "api/JobPost/search",
     "HttpMethod": "GET",
@@ -278,6 +320,22 @@
         "Name": "sort",
         "Type": "System.String",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppLayerAPI.Controllers.JobPostController",
+    "Method": "GetJobSpecificDetails",
+    "RelativePath": "api/JobPost/search/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

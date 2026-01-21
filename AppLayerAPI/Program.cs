@@ -1,3 +1,4 @@
+using AutoMapper;
 using BLL.DomainLogic.Calculators;
 using BLL.DomainLogic.Converters;
 using BLL.DomainLogic.Specifications;
@@ -29,6 +30,7 @@ builder.Services.AddScoped<CandidateDTO>();
 builder.Services.AddScoped<JobPostDTO>();
 builder.Services.AddScoped<ISkillMatchCalculator, SkillMatchCalculator>();
 builder.Services.AddScoped<JobPostSpecification>();
+builder.Services.AddScoped<IEmailService, EmailService>();
 builder.Services.AddDbContext<SJMDbContext>(opt => {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("DbConn"));
 });

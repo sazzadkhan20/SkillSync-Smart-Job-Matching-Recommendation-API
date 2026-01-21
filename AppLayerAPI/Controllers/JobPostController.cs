@@ -75,6 +75,39 @@ namespace AppLayerAPI.Controllers
                 });
             }
         }
+        [HttpGet("search/{id}")]
+        public async Task<IActionResult> GetJobSpecificDetails(int id)
+        {
+            try
+            {
+                return Ok(await _service.GetJobSpecificDetailsAsync(id));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new
+                {
+                    success = false,
+                    message = ex.Message
+                });
+            }
+        }
+
+        [HttpGet("employer/{id}")]
+        public async Task<IActionResult> SearchByStatusAsync(int id, [FromQuery] string status = "all")
+        {
+            try
+            {
+                return Ok(await _service.SearchByStatusAsync(id,status));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new
+                {
+                    success = false,
+                    message = ex.Message
+                });
+            }
+        }
 
         // Advance Search & Filter Job Posts
         [HttpGet("search")]

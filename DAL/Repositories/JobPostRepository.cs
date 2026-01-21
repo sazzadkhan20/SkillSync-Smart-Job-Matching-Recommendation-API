@@ -1,5 +1,7 @@
 ﻿using DAL.EF;
 using DAL.EF.Models;
+using DAL.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +16,5 @@ namespace DAL.Repositories
         public JobPostRepository(SJMDbContext context) : base(context) {
             _context = context;
         }
-
     }
 }

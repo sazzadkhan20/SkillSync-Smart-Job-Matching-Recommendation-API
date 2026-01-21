@@ -66,6 +66,18 @@ namespace BLL.Services
             return result;
         }
 
+        public async Task<JobPostWithApplicationDTO> GetJobSpecificDetailsAsync(int id)
+        {
+            var post = await _dataAccess.JobPostData().GetAsync(id);
+            if (post == null)
+                throw new Exception("Job Post Not Found");
+            var data = await _dataAccess.JobApplicationFeature().GetByJobId(id);
+            if(data == null || data.Count == 0)
+                throw new Exception("No Applications Found for this Job Post");
+            var result = MapperConfig.mapper(data,post.PostedAt);
+            return result;
+        }
+
         public async Task<List<JobPostSearchDTO>> SearchAsync(string? title,
             string[]? skills,int minExperience,string? location,DateTime? postedAfter,string sort)
         {
@@ -84,6 +96,32 @@ namespace BLL.Services
             Converter _converter = new Converter();
             result = _converter.sortByDate(result, sort);
             return result;
+        }
+
+        // Search Job Applications by Status for a specific Job Post
+        public async Task<JobPostWithApplicationDTO?> SearchByStatusAsync(int id,string? status)
+        {
+            var data = await this.GetJobSpecificDetailsAsync(id);
+            if(status == null)
+            {
+                return data;
+            }
+            else if(status.ToLower() == "all")
+            {
+                return data;
+            }
+            else
+            {
+                var filteredApplications = data.JobApplications.Where(map => map.ApplicationStatus
+                        .Trim().ToLower().Equals(status.Trim().ToLower())
+                        ).ToList();
+                data.JobApplications = filteredApplications;
+                if(data.JobApplications == null || data.JobApplications.Count == 0)
+                {
+                    throw new Exception("No Applications Found with the given Status");
+                }
+                return data;
+            }
         }
     }
 }
