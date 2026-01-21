@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\applayerapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E782AB86-AD65-43F7-8DBF-7197CBF253EA}|Common\\Common.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\common\\candidatedecisiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E782AB86-AD65-43F7-8DBF-7197CBF253EA}|Common\\Common.csproj|solutionrelative:common\\candidatedecisiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\dal\\repositories\\jobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F54EF1E-C44A-4D8D-B607-F08156D40CEF}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\jobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\applayerapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9543F169-EF81-11F8-ED0A-20255F568A95}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E782AB86-AD65-43F7-8DBF-7197CBF253EA}|Common\\Common.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\common\\candidatedecisiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E782AB86-AD65-43F7-8DBF-7197CBF253EA}|Common\\Common.csproj|solutionrelative:common\\candidatedecisiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7483AFF8-97BA-4019-8C89-E4449BB79E2D}|BLL\\BLL.csproj|d:\\asp.net core web api final project\\skillsync-smart-job-matching-recommendation-api\\bll\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -174,7 +174,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -194,33 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "JobPostDTO.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobPostDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\JobPostDTO.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobPostDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\JobPostDTO.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:39:29.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "JobApplicationDTO.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobApplicationDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\JobApplicationDTO.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobApplicationDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\JobApplicationDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T06:44:36.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "JobApplicationService.cs",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Services\\JobApplicationService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\JobApplicationService.cs",
@@ -228,12 +202,11 @@
               "RelativeToolTip": "BLL\\Services\\JobApplicationService.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAtwFoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:51:37.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T22:51:37.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IJobApplicationFeature.cs",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Interfaces\\IJobApplicationFeature.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\IJobApplicationFeature.cs",
@@ -241,25 +214,24 @@
               "RelativeToolTip": "DAL\\Interfaces\\IJobApplicationFeature.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAawBIAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T04:37:34.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T04:37:34.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "JobApplicationRepository.cs",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Repositories\\JobApplicationRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\JobApplicationRepository.cs",
               "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\DAL\\Repositories\\JobApplicationRepository.cs",
               "RelativeToolTip": "DAL\\Repositories\\JobApplicationRepository.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFoAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T08:23:46.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Program.cs",
               "RelativeDocumentMoniker": "AppLayerAPI\\Program.cs",
@@ -267,12 +239,11 @@
               "RelativeToolTip": "AppLayerAPI\\Program.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAACEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T19:02:15.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T19:02:15.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\appsettings.json",
               "RelativeDocumentMoniker": "AppLayerAPI\\appsettings.json",
@@ -280,12 +251,61 @@
               "RelativeToolTip": "AppLayerAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-18T20:48:35.657Z",
+              "WhenOpened": "2026-01-18T20:48:35.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidateDecisionType.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\Common\\CandidateDecisionType.cs",
+              "RelativeDocumentMoniker": "Common\\CandidateDecisionType.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\Common\\CandidateDecisionType.cs",
+              "RelativeToolTip": "Common\\CandidateDecisionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:31:15.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "AppLayerAPI\\Controllers\\CandidateController.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "AppLayerAPI\\Controllers\\CandidateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:53:48.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobApplicationDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobApplicationDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\JobApplicationDTO.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobApplicationDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\JobApplicationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:44:36.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobPostDTO.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobPostDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\JobPostDTO.cs",
+              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\JobPostDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\JobPostDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:39:29.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CandidateNotifyRequestDTO.cs",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\CandidateNotifyRequestDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\CandidateNotifyRequestDTO.cs",
@@ -293,12 +313,11 @@
               "RelativeToolTip": "BLL\\DTOs\\CandidateNotifyRequestDTO.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAkwBMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T06:27:08.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T06:27:08.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "JobApplicationController.cs",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Controllers\\JobApplicationController.cs",
               "RelativeDocumentMoniker": "AppLayerAPI\\Controllers\\JobApplicationController.cs",
@@ -306,12 +325,11 @@
               "RelativeToolTip": "AppLayerAPI\\Controllers\\JobApplicationController.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAswGgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:54:34.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T22:54:34.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CandidateDTO.cs",
               "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\DTOs\\CandidateDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\CandidateDTO.cs",
@@ -319,34 +337,7 @@
               "RelativeToolTip": "BLL\\DTOs\\CandidateDTO.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAzwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:39:11.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CandidateController.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Controllers\\CandidateController.cs",
-              "RelativeDocumentMoniker": "AppLayerAPI\\Controllers\\CandidateController.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\AppLayerAPI\\Controllers\\CandidateController.cs",
-              "RelativeToolTip": "AppLayerAPI\\Controllers\\CandidateController.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAIwGMAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:53:48.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CandidateDecisionType.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\Common\\CandidateDecisionType.cs",
-              "RelativeDocumentMoniker": "Common\\CandidateDecisionType.cs",
-              "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\Common\\CandidateDecisionType.cs",
-              "RelativeToolTip": "Common\\CandidateDecisionType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T06:31:15.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T20:39:11.708Z"
             },
             {
               "$type": "Document",
@@ -358,8 +349,7 @@
               "RelativeToolTip": "BLL\\Services\\EmailService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T06:16:36.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T06:16:36.635Z"
             },
             {
               "$type": "Document",
@@ -371,8 +361,7 @@
               "RelativeToolTip": "BLL\\Services\\IEmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T06:16:13.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T06:16:13.942Z"
             },
             {
               "$type": "Document",
@@ -384,8 +373,7 @@
               "RelativeToolTip": "DAL\\Repositories\\CandidateRepository.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAmwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:27:28.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T22:27:28.368Z"
             },
             {
               "$type": "Document",
@@ -397,8 +385,7 @@
               "RelativeToolTip": "DAL\\EF\\Models\\JobApplication.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T06:36:07.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T06:36:07.344Z"
             },
             {
               "$type": "Document",
@@ -410,8 +397,7 @@
               "RelativeToolTip": "AppLayerAPI\\Controllers\\JobPostController.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAuwFUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:54:10.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T22:54:10.826Z"
             },
             {
               "$type": "Document",
@@ -423,8 +409,7 @@
               "RelativeToolTip": "BLL\\Helpers\\MapperConfig.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAAAC8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:08:26.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:08:26.806Z"
             },
             {
               "$type": "Document",
@@ -436,8 +421,7 @@
               "RelativeToolTip": "BLL\\Services\\JobPostService.cs",
               "ViewState": "AgIAAF0AAAAAAAAAAAAkwGQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:51:16.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T22:51:16.833Z"
             },
             {
               "$type": "Document",
@@ -449,8 +433,7 @@
               "RelativeToolTip": "DAL\\EF\\Models\\Candidate.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:37:04.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T20:37:04.34Z"
             },
             {
               "$type": "Document",
@@ -462,8 +445,7 @@
               "RelativeToolTip": "DAL\\EF\\Models\\JobPost.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:40:00.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T20:40:00.484Z"
             },
             {
               "$type": "Document",
@@ -475,8 +457,7 @@
               "RelativeToolTip": "DAL\\DataAccessFactory.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAuwCIAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:31:52.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T22:31:52.891Z"
             },
             {
               "$type": "Document",
@@ -488,8 +469,7 @@
               "RelativeToolTip": "BLL\\DomainLogic\\Converters\\Converter.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAiwBcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T23:22:22.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T23:22:22.466Z"
             },
             {
               "$type": "Document",
@@ -501,8 +481,7 @@
               "RelativeToolTip": "BLL\\DTOs\\JobSpecificApplicationDetailsDTO.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwBYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T02:35:55.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T02:35:55.172Z"
             },
             {
               "$type": "Document",
@@ -514,8 +493,7 @@
               "RelativeToolTip": "BLL\\DTOs\\JobApplicationDetailsDTO.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T11:25:02.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T11:25:02.683Z"
             },
             {
               "$type": "Document",
@@ -527,8 +505,7 @@
               "RelativeToolTip": "BLL\\DTOs\\JobPostWithApplicationDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T03:02:54.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T03:02:54.646Z"
             },
             {
               "$type": "Document",
@@ -540,8 +517,7 @@
               "RelativeToolTip": "BLL\\DTOs\\JobPostSearchDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T21:00:20.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T21:00:20.433Z"
             },
             {
               "$type": "Document",
@@ -553,8 +529,7 @@
               "RelativeToolTip": "DAL\\Interfaces\\IJobPostFeature.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T03:08:18.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T03:08:18.11Z"
             },
             {
               "$type": "Document",
@@ -566,8 +541,7 @@
               "RelativeToolTip": "DAL\\Repositories\\JobPostRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:27:55.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T22:27:55.375Z"
             },
             {
               "$type": "Document",
@@ -579,8 +553,7 @@
               "RelativeToolTip": "DAL\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T21:43:05.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T21:43:05.423Z"
             },
             {
               "$type": "Document",
@@ -592,8 +565,7 @@
               "RelativeToolTip": "DAL\\Repositories\\Repository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T21:39:26.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T21:39:26.385Z"
             },
             {
               "$type": "Document",
@@ -605,8 +577,7 @@
               "RelativeToolTip": "BLL\\Services\\CandidateService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:50:55.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T22:50:55.404Z"
             },
             {
               "$type": "Document",
