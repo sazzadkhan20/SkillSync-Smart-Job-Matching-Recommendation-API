@@ -1,6 +1,7 @@
-using BLL.DomainLogic;
+using BLL.DomainLogic.Calculators;
+using BLL.DomainLogic.Converters;
+using BLL.DomainLogic.Specifications;
 using BLL.DTOs;
-using BLL.Interfaces;
 using BLL.Services;
 using DAL;
 using DAL.EF;
@@ -27,6 +28,7 @@ builder.Services.AddScoped<JobApplicationService>();
 builder.Services.AddScoped<CandidateDTO>();
 builder.Services.AddScoped<JobPostDTO>();
 builder.Services.AddScoped<ISkillMatchCalculator, SkillMatchCalculator>();
+builder.Services.AddScoped<JobPostSpecification>();
 builder.Services.AddDbContext<SJMDbContext>(opt => {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("DbConn"));
 });

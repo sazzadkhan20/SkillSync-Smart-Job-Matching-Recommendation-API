@@ -2,7 +2,7 @@
 using BLL.DTOs;
 using DAL.EF.Models;
 
-namespace BLL
+namespace BLL.Helpers
 {
     public class MapperConfig
     {
@@ -17,6 +17,7 @@ namespace BLL
                          ForMember(
                          dto => dto.JobPost,
                          src => src.MapFrom(j => j.JobPost));
+            c.CreateMap<JobPost, JobPostSearchDTO>().ReverseMap();
             //c.CreateMap<Student, StudentDTO>().ReverseMap();
             //c.CreateMap<Student, StudentDTO>().ReverseMap();
             //c.CreateMap<Department, DepartmentStudentDTO>().ReverseMap();
