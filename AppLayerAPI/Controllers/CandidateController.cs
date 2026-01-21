@@ -52,11 +52,11 @@ namespace AppLayerAPI.Controllers
                     message = ex.Message
                 });
             }
-            
+
         }
 
         [HttpPut("update/{id}")]
-        public async Task<IActionResult> Update([FromBody] CandidateDTO candidate,int id)
+        public async Task<IActionResult> Update([FromBody] CandidateDTO candidate, int id)
         {
             if (!ModelState.IsValid)
             {
@@ -93,5 +93,26 @@ namespace AppLayerAPI.Controllers
             }
         }
 
+        // Recommendated Jobs for a Candidate
+        [HttpGet("recommended-jobs/{id}")]
+        public async Task<IActionResult> GetRecommendedJobs(int id, 
+                        [FromQuery] int filter = 50, 
+                        [FromQuery] string sort = "asc")
+        {
+            try
+            {
+                var jobs = await _service.GetRecommendedJobsAsync(id, filter,sort);
+                return Ok(jobs);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new
+                {
+                    success = false,
+                    message = ex.Message
+                });
+            }
+
+        }
     }
 }

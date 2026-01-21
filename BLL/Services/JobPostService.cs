@@ -1,4 +1,7 @@
-﻿using BLL.DTOs;
+﻿using BLL.DomainLogic.Converters;
+using BLL.DomainLogic.Specifications;
+using BLL.DTOs;
+using BLL.Helpers;
 using DAL;
 using DAL.EF.Models;
 using System;
@@ -12,9 +15,11 @@ namespace BLL.Services
     public class JobPostService
     {
         private readonly DataAccessFactory _dataAccess;
-        public JobPostService(DataAccessFactory dataAccess)
+        private readonly JobPostSpecification _specification;
+        public JobPostService(DataAccessFactory dataAccess,JobPostSpecification specification)
         {
             _dataAccess = dataAccess;
+            _specification = specification;
         }
 
         public async Task<JobPostDTO> GetAsync(int id)
@@ -49,7 +54,7 @@ namespace BLL.Services
             return result;
         }
 
-        public async Task<bool> UpdateAsync(JobPostDTO JobPost,int id)
+        public async Task<bool> UpdateAsync(JobPostDTO JobPost, int id)
         {
             var existingData = await _dataAccess.JobPostData().GetAsync(id);
             if (existingData == null)
@@ -58,6 +63,26 @@ namespace BLL.Services
             }
             var data = MapperConfig.GetMapper().Map<JobPost>(JobPost);
             var result = await _dataAccess.JobPostData().UpdateAsync(data);
+            return result;
+        }
+
+        public async Task<List<JobPostSearchDTO>> SearchAsync(string? title,
+            string[]? skills,int minExperience,string? location,DateTime? postedAfter,string sort)
+        {
+            var jobPosts = await _dataAccess.JobPostData().GetAllAsync();
+            if(jobPosts == null || jobPosts.Count == 0)
+            {
+                throw new Exception("No Job Posts Found");
+            }
+            var data = MapperConfig.GetMapper().Map<List<JobPostSearchDTO>>(jobPosts);
+            var result = _specification.Filter(data, title, skills, minExperience, location, postedAfter);
+            if(result == null || result.Count == 0)
+            {
+                throw new Exception("No Job Posts Found Matching the Criteria");
+            }
+            // Sort the result based on PostedAt
+            Converter _converter = new Converter();
+            result = _converter.sortByDate(result, sort);
             return result;
         }
     }

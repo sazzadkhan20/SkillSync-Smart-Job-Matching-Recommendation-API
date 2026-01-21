@@ -13,6 +13,8 @@ namespace DAL.EF.Models
             JobApplications = new List<JobApplication>();
         }
         public int Id { get; set; }
+
+        public string CompanyName { get; set; }
         public string Title { get; set; }
         
         public string SkillsRequired { get; set; }

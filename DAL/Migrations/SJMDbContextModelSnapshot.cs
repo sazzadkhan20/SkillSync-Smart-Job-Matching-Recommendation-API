@@ -102,6 +102,10 @@ namespace DAL.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("CompanyName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("ExperienceLevel")
                         .HasColumnType("int");
 
@@ -131,13 +135,13 @@ namespace DAL.Migrations
             modelBuilder.Entity("DAL.EF.Models.JobApplication", b =>
                 {
                     b.HasOne("DAL.EF.Models.Candidate", "Candidate")
-                        .WithMany()
+                        .WithMany("JobApplications")
                         .HasForeignKey("CandidateId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("DAL.EF.Models.JobPost", "JobPost")
-                        .WithMany()
+                        .WithMany("JobApplications")
                         .HasForeignKey("JobId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -145,6 +149,16 @@ namespace DAL.Migrations
                     b.Navigation("Candidate");
 
                     b.Navigation("JobPost");
+                });
+
+            modelBuilder.Entity("DAL.EF.Models.Candidate", b =>
+                {
+                    b.Navigation("JobApplications");
+                });
+
+            modelBuilder.Entity("DAL.EF.Models.JobPost", b =>
+                {
+                    b.Navigation("JobApplications");
                 });
 #pragma warning restore 612, 618
         }

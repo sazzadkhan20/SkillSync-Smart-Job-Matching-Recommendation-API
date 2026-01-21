@@ -39,7 +39,7 @@ namespace AppLayerAPI.Controllers
         }
 
         [HttpPut("update/{id}")] //  https://localhost:7044/api/jobpost/update
-        public async Task<IActionResult> Update([FromBody] JobPostDTO JobPost,int id)
+        public async Task<IActionResult> Update([FromBody] JobPostDTO JobPost, int id)
         {
             if (!ModelState.IsValid)
             {
@@ -65,6 +65,30 @@ namespace AppLayerAPI.Controllers
             try
             {
                 return Ok(await _service.DeleteAsync(id));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new
+                {
+                    success = false,
+                    message = ex.Message
+                });
+            }
+        }
+
+        // Advance Search & Filter Job Posts
+        [HttpGet("search")]
+        public async Task<IActionResult> Search(
+                        [FromQuery] string? title,
+                        [FromQuery] string[] skills,
+                        [FromQuery] int minExp = 0,
+                        [FromQuery] string? location = null,
+                        [FromQuery] DateTime? postedAfter = null,
+                        [FromQuery] string? sort="asc")
+        {
+            try
+            {
+                return Ok(await _service.SearchAsync(title,skills,minExp,location,postedAfter,sort));
             }
             catch (Exception ex)
             {
