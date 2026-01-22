@@ -202,8 +202,7 @@
               "RelativeToolTip": "AppLayerAPI\\Controllers\\CandidateController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:53:48.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T22:53:48.276Z"
             },
             {
               "$type": "Document",
@@ -215,8 +214,7 @@
               "RelativeToolTip": "BLL\\DomainLogic\\Calculators\\SkillMatchCalculator.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T09:57:16.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T09:57:16.946Z"
             },
             {
               "$type": "Document",
@@ -228,8 +226,7 @@
               "RelativeToolTip": "AppLayerAPI\\Controllers\\JobApplicationController.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAAwwGgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:54:34.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T22:54:34.076Z"
             },
             {
               "$type": "Document",
@@ -241,8 +238,7 @@
               "RelativeToolTip": "AppLayerAPI\\Controllers\\JobPostController.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAAAAwFUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:54:10.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T22:54:10.826Z"
             },
             {
               "$type": "Document",
@@ -254,8 +250,7 @@
               "RelativeToolTip": "BLL\\DomainLogic\\Specifications\\CandidateSpecification.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T21:48:56.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T21:48:56.741Z"
             },
             {
               "$type": "Document",
@@ -267,8 +262,7 @@
               "RelativeToolTip": "BLL\\DomainLogic\\Specifications\\JobPostSpecification.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T21:48:09.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T21:48:09.45Z"
             },
             {
               "$type": "Document",
@@ -278,7 +272,7 @@
               "RelativeDocumentMoniker": "BLL\\Helpers\\MapperConfig.cs",
               "ToolTip": "D:\\ASP.NET Core Web API Final Project\\SkillSync-Smart-Job-Matching-Recommendation-API\\BLL\\Helpers\\MapperConfig.cs",
               "RelativeToolTip": "BLL\\Helpers\\MapperConfig.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDsAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T23:08:26.806Z",
               "EditorCaption": ""
@@ -293,8 +287,7 @@
               "RelativeToolTip": "AppLayerAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-18T20:48:35.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T20:48:35.657Z"
             },
             {
               "$type": "Document",
@@ -306,8 +299,7 @@
               "RelativeToolTip": "BLL\\Services\\JobApplicationService.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAAAtwHIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:51:37.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T22:51:37.826Z"
             },
             {
               "$type": "Document",
@@ -319,8 +311,7 @@
               "RelativeToolTip": "BLL\\Services\\IEmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T06:16:13.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T06:16:13.942Z"
             },
             {
               "$type": "Document",
@@ -332,8 +323,7 @@
               "RelativeToolTip": "BLL\\Services\\EmailService.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAwwCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T06:16:36.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T06:16:36.635Z"
             },
             {
               "$type": "Document",
@@ -345,8 +335,7 @@
               "RelativeToolTip": "Common\\CandidateDecisionType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T06:31:15.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T06:31:15.939Z"
             },
             {
               "$type": "Document",
@@ -370,8 +359,7 @@
               "RelativeToolTip": "DAL\\Repositories\\JobApplicationRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAIwAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T08:23:46.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T08:23:46.24Z"
             },
             {
               "$type": "Document",
